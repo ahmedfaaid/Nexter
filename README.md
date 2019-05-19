@@ -1,4 +1,4 @@
-# Trillo
+# Nexter
 
 *Project for the Advanced CSS & SASS Udemy course by Jonas Schmedtmann*
 
