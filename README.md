@@ -2,7 +2,7 @@
 
 *Project for the Advanced CSS & SASS Udemy course by Jonas Schmedtmann*
 
-URL: http://nexter.ahmedtests.dx.am/
+URL: http://ahmed-nexter.surge.sh/
 
 ## What I've Learned
 
